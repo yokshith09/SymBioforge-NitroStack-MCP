@@ -18,6 +18,7 @@ web/out/
 .claude/
 .agents/
 .antigravity/
+.anchor/
 .codex/
 .copilot/
 .cursor/
